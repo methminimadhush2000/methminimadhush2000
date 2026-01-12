@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **methminimadhush2000/methminimadhush2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,17 +45,12 @@ I'm an ambitious Computer Science and Engineering undergraduate passionate about
 
 <h3 align="left">🔗 Connect with Me</h3>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/methmini-madhushika-693a05311/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://methminimadhush2000.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&color=000000&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://github.com/methminimadhush2000" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/methmini-madhushika-693a05311/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://methminimadhush2000.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/methminimadhush2000"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
+</p>
+
 
 ###
 
@@ -78,14 +73,3 @@ I'm an ambitious Computer Science and Engineering undergraduate passionate about
   
 </div>
 
-###
-
-<h3 align="left">🔥 GitHub Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=methminimadhush2000&theme=dark&hide_border=false" height="220"/>
-</div>
-
-###
